@@ -1,4 +1,4 @@
-# Hand Portal AR 🖐️
+# Hand Portal AR 
 
 A small experimental computer vision project that transforms a webcam feed into interactive, hand-controlled portal effects.
 
